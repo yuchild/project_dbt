@@ -1,0 +1,13 @@
+started 2022-09-06
+
+youtubes: 
+tutorial - https://www.youtube.com/watch?v=5rNquRnNb4E
+why dbt - https://www.youtube.com/watch?v=8FZZivIfJVo
+
+data built tool (dbt elt)
+make python3 environment in cmd line: 
+$ python3 -m venv dbt_venv
+$ source dbt_venv/bin/activate
+$ deactivate # to leave venv
+
+
